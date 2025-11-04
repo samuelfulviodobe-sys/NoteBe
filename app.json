@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "6843a57b-fc92-4e54-a988-e49c03270432"
+      }
+    },
+    "android": {
+      "package": "com.samuelaa.restexpress"
+    }
+  }
+}

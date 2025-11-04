@@ -1,0 +1,22 @@
+{
+  "cli": {
+    "version": ">= 3.13.2"
+  },
+  "build": {
+    "preview": {
+      "developmentClient": false,
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "production": {
+      "developmentClient": false,
+      "distribution": "store",
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  }
+}
+
